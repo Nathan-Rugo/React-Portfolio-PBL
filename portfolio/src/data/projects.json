@@ -1,27 +1,22 @@
 [
     {
-        "name" : "Project 1",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link" : "https://github.com/"
+        "name" : "Trafiri",
+        "description" : "The project focuses on creating a website for tourists to discover Kenya's hidden gems using HTML, CSS, PHP, a MYSQL database and other tools.",
+        "link" : "https://github.com/Nathan-Rugo/Trafiri"
     },
     {
-        "name" : "Project 2",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link" : "https://github.com/"
+        "name" : "Siwaka Pharmacy",
+        "description" : "The project focuses on creating a pharmacy management system with a graphical user interface (GUI) using Swing and JDBC for database connectivity.",
+        "link" : "https://github.com/Nathan-Rugo/Pharmacy-Java-Project"
     },
     {
-        "name" : "Project 3",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link" : "https://github.com/"
+        "name" : "BookFinder",
+        "description" : "The project focuses on creating a book recommendation system as a website using generative AI to recommend users book based on their prompt.",
+        "link" : "https://github.com/Ricodonto/hackerthon"
     },
     {
-        "name" : "Project 4",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link" : "https://github.com/"
-    },
-    {
-        "name" : "Project 5",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link" : "https://github.com/"
+        "name" : "Japanese Project",
+        "description" : "The project focuses on creating a Japanese Vocabulary Guessing Game as a CLI using Python to help Japanese students learn Japanese vocabulary.",
+        "link" : "https://github.com/Nathan-44-rugo/Python-Pit"
     }
 ]

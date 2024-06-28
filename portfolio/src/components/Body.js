@@ -10,7 +10,7 @@ const Body = () => {
                     <img className="body-img" alt="avatar" src={Avatar} />
                     <div className="body-content">
                         <div className="body-headline">Nathan Githinji</div>
-                        <div className="body-text">Web developer</div>
+                        <div className="body-text">Student - Full Stack Developer</div>
                         <div className="body-icons">
                             <a href="https://www.linkedin.com/in/nathan-githinji-rugo-4188772b1/" target="_blank" rel="noreferrer" className="icon-link">
                                 <FaLinkedin />
