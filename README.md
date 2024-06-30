@@ -58,7 +58,7 @@ School Email: [Email](nathan.githinji@starthmore.edu)
 
 
 ## Resources 📚
-
+- [Font Awesome](https://fontawesome.com/icons/react?f=brands&s=solid)
 - [React Documentation](https://reactjs.org/docs/getting-started.html)
 - [Node.js Documentation](https://nodejs.org/en/docs/)
 - [npm Documentation](https://docs.npmjs.com/)

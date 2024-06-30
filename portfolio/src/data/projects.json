@@ -18,5 +18,10 @@
         "name" : "Japanese Project",
         "description" : "The project focuses on creating a Japanese Vocabulary Guessing Game as a CLI using Python to help Japanese students learn Japanese vocabulary.",
         "link" : "https://github.com/Nathan-44-rugo/Python-Pit"
+    },
+    {
+        "name" : "React Portfolio",
+        "description" : "The project focuses on creating a personal React Portfolio as a way to learn the fundamentals of React and also polish skills in HTML, CSS and Javascript.",
+        "link" : "https://github.com/Nathan-Rugo/React-Portfolio-PBL"
     }
 ]

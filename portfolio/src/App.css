@@ -489,7 +489,7 @@ a:hover {
 /* Skills section */
 .skills {
   background-color: white;
-  height: 50vh;
+  height: 70vh;
   display:inline-block;
   flex-direction:column;
   align-items:center;
@@ -582,3 +582,35 @@ a:hover {
 }
 
 /* End Skills section */
+/* Footer Section*/
+.footer{
+  height:min-content;
+  width: 100%;
+  background-color: black;
+  color: white;
+  flex-direction: column;
+  text-align: center;
+  padding: 5rem;
+}
+.footer .footer-contact-info{
+  padding: 5rem;
+}
+.footer .footer-contact-info .footer-heading{
+  font-size: 2.5rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 10px;
+}
+.footer .footer-contact-info .footer-contact-access{
+  font-size: 1.4rem;
+  padding-top: 10px;
+  letter-spacing: .2rem;
+  margin-bottom: -0.1rem;
+}
+.footer .social-icons a{
+  color: white;
+  font-size: 3rem;
+  margin: 0.7rem;
+  display: inline-block;
+}
+/*End  of Footer section*/

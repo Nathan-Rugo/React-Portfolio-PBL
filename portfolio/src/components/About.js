@@ -7,7 +7,7 @@ const About = () => {
                 <div className="about-info">
                     <p className="about-desc">  
                         I'm Nathan Githinji Rugo, a student pursuing a Bachelor of Science in Informatics and Computer Science at Strathmore University in Nairobi, Kenya.
-                        I am also part of the Africa 2 Silicon Valley (A2SV), an organisation that strives to educate African tech students with necessary skills to propel their carrers.  
+                        I am also part of the Africa 2 Silicon Valley (A2SV), an organisation that strives to equip African tech students with necessary skills to propel their carrers.  
                         I chose a career in technology because I believe in its transformative power and its ability to address complex challenges. 
                         The opportunity to create innovative solutions and contribute to the technological advancement of Africa inspires me. 
                         After completing my Bachelor's Degree and A2SV program, I aspire to leverage the skills gained to make a significant impact on the African tech scene, 

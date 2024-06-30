@@ -1,5 +1,5 @@
 // Create your Body component here
-import { FaGithub, FaGoogle, FaLinkedin, FaStackOverflow } from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaStackOverflow } from "react-icons/fa";
 import Avatar from '../assets/Passport Photo.jpg';
 
 const Body = () => {
@@ -20,9 +20,6 @@ const Body = () => {
                             </a>
                             <a href="https://stackoverflow.com/users/24143572/viscereal28" target="_blank" rel="noreferrer" className="icon-link">
                                 <FaStackOverflow />
-                            </a>
-                            <a href="mailto:nathan.githinji@strathmore.edu" target="_blank" rel="noreferrer" className="icon-link">
-                                <FaGoogle />
                             </a>
                         </div>
                     </div>
